@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <ProductImage/> debe de mostrar el componente correctamente con la imagen personalizado 1`] = `
+<img
+  alt="Product"
+  class="productImg undefined"
+  src="https://inkscape.app/wp-content/uploads/imagen-vectorial.webp"
+/>
+`;
